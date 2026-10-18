@@ -1,0 +1,4 @@
+data/creditcard.csv
+data/fraud.db
+__pycache__/
+*.pyc

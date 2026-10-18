@@ -1,0 +1,4 @@
+check_name,failing_rows,total_rows,failing_share,threshold,severity,status
+exact duplicate rows,1081,284807,0.00379555277784605,0.001,High,ALERT
+zero Amount,1825,284807,0.006407848121710491,0.001,Medium,ALERT
+Amount above 5000,55,284807,0.00019311323106524768,0.0001,Low,ALERT

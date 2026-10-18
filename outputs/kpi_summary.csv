@@ -1,0 +1,2 @@
+transactions,fraud_transactions,fraud_rate_bps,total_amount,fraud_amount,fraud_amount_rate_bps,avg_fraud_amount,avg_legit_amount
+283726,473,16.67,25102002.0,58591.0,23.34,123.87,88.41

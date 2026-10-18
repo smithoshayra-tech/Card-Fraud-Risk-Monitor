@@ -1,0 +1,3 @@
+period,transactions,fraud_transactions,fraud_rate_bps
+other hours,263449,355,13.48
+quietest 25% of hours,20277,118,58.19
